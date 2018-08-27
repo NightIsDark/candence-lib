@@ -1,0 +1,7 @@
+20180827: 
+	1.update 2_54MM-2x4P
+	2.fu-1812变更为FUSE-1812
+	3.增加SMA-K-UPRIGHT,删除SMA-K
+	4.增加贴片按键 SW3X6-SMD
+	5.增加SMA-K-UPRIGHT
+	6.删除sod-gblc03c封装

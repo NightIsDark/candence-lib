@@ -4,16 +4,16 @@ candence candence lib&amp;pcb lib
 1_27mm-14p				    	单排1.27间距 14P排针 直脚
 2_0MM-4P-AW				    	单排间距2.54mm 4P 白插 弯脚
 2_0mm-6p					      单排间距2.0排针 6P
-2_54mm-2p				  	    单排间距2.54排针 2P
+2_54mm-2p				  	单排间距2.54排针 2P
 2_54mm-2x2P				    	双排间距2.54排针 2x2P
 2_54mm-2x3P		    			双排间距2.54排针 2x3P
 2_54mm-2x4P   					双排间距2.54排针 2x4P
-2_54mm-2x5P					    双排间距2.54排针 2x5P
+2_54mm-2x5P					双排间距2.54排针 2x5P
 2_54mm-2x6P			    		双排间距2.54排针 2x6P
 2_54mm-2x7P	    				双排间距2.54排针 2x7P
 2_54mm-2x8P				    	双排间距2.54排针 2x8P
-2_54mm-2x10P				    双排间距2.54排针 2x10P
-2_54mm-2x12P			    	双排间距2.54排针 2x12P
+2_54mm-2x10P				  	  双排间距2.54排针 2x10P
+2_54mm-2x12P			    		双排间距2.54排针 2x12P
 2_54mm-2x16P						双排间距2.54排针 2x16P
 2_54mm-3p					      单排间距2.54排针 3P
 2_54mm-4p					      单排间距2.54排针 4P
@@ -136,6 +136,7 @@ ind-9-5mm					直插电感 φ9 脚距5mm
 ind-9-5mm-lay				直插电感 φ9 脚距5mm 卧式安装
 ind-0510v					直插色环电感 卧式安装
 ind-sm3x3mm					贴片电感 3x3
+ind-sm4x4mm					贴片电感 4x4
 ind-sm5x5mm					贴片电感 5x5
 ind-sm6x6mm					贴片电感 6*6
 ind-sm8x8mm					贴片电感 8*8
@@ -205,6 +206,7 @@ r2512						r2512
 RCP890A05					滤波器RCP890A05
 REED_2X14MM					干簧管 REED_2X14MM
 RES-2WS-UPRIGHT				直插电阻 立式安装
+RTJ0020D					TI TPS7A8901RTJR
 RJ11-4P6C					RJ11连接器
 RJ45_NO_ISO_1X2				RJ45 1X2 非隔离
 rj-45-hr911103a				RJ45 hr911103a
@@ -285,6 +287,7 @@ TQFP-100					标准封装TQFP-100
 trf-hy051067				变压器	hy051067
 TRF-HY601742				变压器	HY601742
 trf-HY602403				变压器  HY602403
+TSOP-54						标准封装TSOP-54
 tsot23-6					标准封装 tsot23-6
 tssop-8						标准封装 tssop-8
 TSSOP-14					标准封装 TSSOP-14

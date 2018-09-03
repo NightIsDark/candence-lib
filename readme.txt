@@ -234,9 +234,10 @@ SOD323-GBLC03C				SOD323 for GBLC03C
 SOD-523						标准封装SOD-523
 SOIC-4						标准封装SOIC-4
 SOIC-8						标准封装SOIC-8
-SOIC8-L						标准封装SOIC8-L
 SOIC-8N						标准封装SOIC-8N
 SOIC8-W						标准封装SOIC8-W for W25Q64BV
+SOIC-8-REF5030AIDR			SOIC-8 for REF5030AIDR
+SOIC-8-EPCS16				SOIC-8 for EPCS16
 soic-10						标准封装soic-10
 SOIC-14						标准封装SOIC-14
 SOIC14-D					标准封装SOIC14-D
@@ -245,6 +246,7 @@ SOIC16-W					标准封装SOIC16-W
 SOP-4						标准封装SOP-4
 SOP-7-PN8015				标准封装SOP-7forPN8015
 SOP-8						标准封装SOP-8
+SOP-8-TPS5450				SOP-8 for TPS5450
 sop-16						标准封装sop-16
 sop-16n						标准封装sop-16n
 sot-23						标准封装sot-23

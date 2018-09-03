@@ -1,3 +1,4 @@
+del *.log,2 /s
 del *.log,1 /s
 del *.jrl /s
 del *.tag /s

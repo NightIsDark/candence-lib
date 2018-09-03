@@ -179,7 +179,8 @@ mov-14d471					压敏电阻14D
 msop-8						TI msop-8
 msop-10						TI msop-10
 ntc-5d-9					热敏电阻ntc-5d-9
-port2_54mm-2h				2.54mm 
+port2_54mm-2h				2.54mm 白插
+port5_08mm-3h				5.08 3P 绿插，弯脚连接器
 PS2801-1					PS2801封装
 ptc-rf250					自恢复保险丝 250V
 QFN8						标准封装QFN8

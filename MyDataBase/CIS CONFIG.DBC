@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <CFGManager>
 
-  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Thu Nov 08 22:19:55 2018
+  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Mon Nov 12 21:32:17 2018
 -->
 
   <CISVersion>
     <Value>CIS Version 16.3</Value>
   </CISVersion>
 
-  <LastModifiedTime>1541686788</LastModifiedTime>
+  <LastModifiedTime>1542029530</LastModifiedTime>
 
   <AllowDuplicatePartNumbers>1</AllowDuplicatePartNumbers>
 
@@ -85,42 +85,6 @@
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
     <DbFieldDef indx="2">
-      <FieldName>Value</FieldName>
-      <DBFieldName>Value</DBFieldName>
-      <ICAFieldName></ICAFieldName>
-      <DBFieldType>12</DBFieldType>
-      <DBFieldPrecision>255</DBFieldPrecision>
-      <DBFieldLength>510</DBFieldLength>
-      <DBFieldScale>32484</DBFieldScale>
-      <DBFieldRadix>32484</DBFieldRadix>
-      <DBFieldNullable>0</DBFieldNullable>
-      <Browse>0</Browse>
-      <Protected>0</Protected>
-      <Key>0</Key>
-      <Ignore>0</Ignore>
-      <Visibility>0</Visibility>
-      <PropertyType>0</PropertyType>
-      <UpdatePartProp>1</UpdatePartProp>
-    </DbFieldDef>
-    <DbFieldDef indx="3">
-      <FieldName></FieldName>
-      <DBFieldName>Schematic part</DBFieldName>
-      <ICAFieldName></ICAFieldName>
-      <DBFieldType>12</DBFieldType>
-      <DBFieldPrecision>255</DBFieldPrecision>
-      <DBFieldLength>510</DBFieldLength>
-      <DBFieldScale>32484</DBFieldScale>
-      <DBFieldRadix>32484</DBFieldRadix>
-      <DBFieldNullable>0</DBFieldNullable>
-      <Browse>0</Browse>
-      <Protected>0</Protected>
-      <Key>0</Key>
-      <Ignore>1</Ignore>
-      <Visibility>0</Visibility>
-      <PropertyType>3</PropertyType>
-      <UpdatePartProp>1</UpdatePartProp>
-    </DbFieldDef>
-    <DbFieldDef indx="4">
       <FieldName>Manufacturer Part Number</FieldName>
       <DBFieldName>Manufacturer Part Number</DBFieldName>
       <ICAFieldName></ICAFieldName>
@@ -138,7 +102,25 @@
       <PropertyType>0</PropertyType>
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
-    <DbFieldDef indx="5">
+    <DbFieldDef indx="3">
+      <FieldName>Value</FieldName>
+      <DBFieldName>Value</DBFieldName>
+      <ICAFieldName></ICAFieldName>
+      <DBFieldType>12</DBFieldType>
+      <DBFieldPrecision>255</DBFieldPrecision>
+      <DBFieldLength>510</DBFieldLength>
+      <DBFieldScale>32484</DBFieldScale>
+      <DBFieldRadix>32484</DBFieldRadix>
+      <DBFieldNullable>0</DBFieldNullable>
+      <Browse>0</Browse>
+      <Protected>0</Protected>
+      <Key>0</Key>
+      <Ignore>0</Ignore>
+      <Visibility>0</Visibility>
+      <PropertyType>0</PropertyType>
+      <UpdatePartProp>1</UpdatePartProp>
+    </DbFieldDef>
+    <DbFieldDef indx="4">
       <FieldName>Description</FieldName>
       <DBFieldName>Description</DBFieldName>
       <ICAFieldName></ICAFieldName>
@@ -156,7 +138,7 @@
       <PropertyType>0</PropertyType>
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
-    <DbFieldDef indx="6">
+    <DbFieldDef indx="5">
       <FieldName>PCB Footprint</FieldName>
       <DBFieldName>PCB Footprint</DBFieldName>
       <ICAFieldName></ICAFieldName>
@@ -174,7 +156,7 @@
       <PropertyType>4</PropertyType>
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
-    <DbFieldDef indx="7">
+    <DbFieldDef indx="6">
       <FieldName>Maunufator</FieldName>
       <DBFieldName>Maunufator</DBFieldName>
       <ICAFieldName></ICAFieldName>
@@ -192,7 +174,7 @@
       <PropertyType>0</PropertyType>
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
-    <DbFieldDef indx="8">
+    <DbFieldDef indx="7">
       <FieldName>Mounting type</FieldName>
       <DBFieldName>Mounting type</DBFieldName>
       <ICAFieldName></ICAFieldName>
@@ -208,6 +190,24 @@
       <Ignore>0</Ignore>
       <Visibility>0</Visibility>
       <PropertyType>0</PropertyType>
+      <UpdatePartProp>1</UpdatePartProp>
+    </DbFieldDef>
+    <DbFieldDef indx="8">
+      <FieldName></FieldName>
+      <DBFieldName>Schematic part</DBFieldName>
+      <ICAFieldName></ICAFieldName>
+      <DBFieldType>12</DBFieldType>
+      <DBFieldPrecision>255</DBFieldPrecision>
+      <DBFieldLength>510</DBFieldLength>
+      <DBFieldScale>32484</DBFieldScale>
+      <DBFieldRadix>32484</DBFieldRadix>
+      <DBFieldNullable>0</DBFieldNullable>
+      <Browse>0</Browse>
+      <Protected>0</Protected>
+      <Key>0</Key>
+      <Ignore>1</Ignore>
+      <Visibility>0</Visibility>
+      <PropertyType>3</PropertyType>
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
     <DbFieldDef indx="9">

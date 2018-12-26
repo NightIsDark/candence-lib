@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <CFGManager>
 
-  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Fri Nov 09 15:18:22 2018
+  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Wed Dec 26 23:17:58 2018
 -->
 
   <CISVersion>
@@ -28,7 +28,7 @@
 
   <DoNotStuffString>Do Not Stuff</DoNotStuffString>
 
-  <MechPartMappingTable>CIS_DB</MechPartMappingTable>
+  <MechPartMappingTable> </MechPartMappingTable>
 
   <Version>2457</Version>
 
@@ -38,60 +38,11 @@
 
   <AutoPartTypeRefresh>1</AutoPartTypeRefresh>
 
-  <PartNumber>0</PartNumber>
+  <PartNumber>1</PartNumber>
 
-  <PartRefernce>1</PartRefernce>
+  <PartRefernce>0</PartRefernce>
 
-  <RefDesAssoc>
-    <PartTypes indx="0">
-      <sPartTypes>Carbon Film</sPartTypes>
-    </PartTypes>
-    <PartTypes indx="1">
-      <sPartTypes>TTL Logic</sPartTypes>
-    </PartTypes>
-    <PartTypes indx="2">
-      <sPartTypes>Misc</sPartTypes>
-    </PartTypes>
-    <PartTypes indx="3">
-      <sPartTypes>Microprocessor</sPartTypes>
-    </PartTypes>
-    <PartTypes indx="4">
-      <sPartTypes>Interface Data Transmission</sPartTypes>
-    </PartTypes>
-    <PartTypes indx="5">
-      <sPartTypes>CMOS Logic</sPartTypes>
-    </PartTypes>
-    <PartTypes indx="6">
-      <sPartTypes>Electrolytic</sPartTypes>
-    </PartTypes>
-    <PartTypes indx="7">
-      <sPartTypes>Ceramic</sPartTypes>
-    </PartTypes>
-    <RefDesPrefixes indx="0">
-      <sRefDesPrefixes>R</sRefDesPrefixes>
-    </RefDesPrefixes>
-    <RefDesPrefixes indx="1">
-      <sRefDesPrefixes>U</sRefDesPrefixes>
-    </RefDesPrefixes>
-    <RefDesPrefixes indx="2">
-      <sRefDesPrefixes>U</sRefDesPrefixes>
-    </RefDesPrefixes>
-    <RefDesPrefixes indx="3">
-      <sRefDesPrefixes>U</sRefDesPrefixes>
-    </RefDesPrefixes>
-    <RefDesPrefixes indx="4">
-      <sRefDesPrefixes>U</sRefDesPrefixes>
-    </RefDesPrefixes>
-    <RefDesPrefixes indx="5">
-      <sRefDesPrefixes>U</sRefDesPrefixes>
-    </RefDesPrefixes>
-    <RefDesPrefixes indx="6">
-      <sRefDesPrefixes>C</sRefDesPrefixes>
-    </RefDesPrefixes>
-    <RefDesPrefixes indx="7">
-      <sRefDesPrefixes>C</sRefDesPrefixes>
-    </RefDesPrefixes>
-  </RefDesAssoc>
+  <RefDesAssoc/>
 
   <SelectedICASupList indx="0">
     <ICASuplierList>Allied</ICASuplierList>
@@ -114,7 +65,7 @@
     <TableName>CIS_DB</TableName>
     <TableUsed>1</TableUsed>
     <DbFieldDef indx="0">
-      <FieldName>Part number</FieldName>
+      <FieldName>Part Number</FieldName>
       <DBFieldName>Part number</DBFieldName>
       <ICAFieldName></ICAFieldName>
       <DBFieldType>12</DBFieldType>

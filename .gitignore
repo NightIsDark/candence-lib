@@ -1,5 +1,13 @@
 MyPcbLib/dra&psm/*.log,2
 MyPcbLib/dra&psm/*.log,1
 MyPcbLib/dra&psm/*.log
+<<<<<<< HEAD
 MyPcbLib/dra&psm/*.jrl 
 MyPcbLib/dra&psm/*.tag
+=======
+MyPcbLib/dra&psm/stepFacetFiles4Map
+MyPcbLib/dra&psm/*.jrl 
+MyPcbLib/dra&psm/*.jrl,1
+MyPcbLib/dra&psm/master.tag
+MyCandenceLib/MYLIB_0.OBK
+>>>>>>> fb3382a93799c55bffe186f6a5abc06e6649c909

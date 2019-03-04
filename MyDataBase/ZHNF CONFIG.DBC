@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <CFGManager>
 
-  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Tue Jan 08 18:43:03 2019
+  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Mon Mar 04 14:25:54 2019
 -->
 
   <CISVersion>
@@ -76,7 +76,7 @@
       <DBFieldNullable>0</DBFieldNullable>
       <Browse>0</Browse>
       <Protected>0</Protected>
-      <Key>0</Key>
+      <Key>1</Key>
       <Ignore>0</Ignore>
       <Visibility>0</Visibility>
       <PropertyType>1</PropertyType>
@@ -94,7 +94,7 @@
       <DBFieldNullable>0</DBFieldNullable>
       <Browse>0</Browse>
       <Protected>0</Protected>
-      <Key>1</Key>
+      <Key>0</Key>
       <Ignore>0</Ignore>
       <Visibility>0</Visibility>
       <PropertyType>2</PropertyType>

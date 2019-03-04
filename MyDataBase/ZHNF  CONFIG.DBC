@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <CFGManager>
 
-  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Mon Mar 04 14:25:54 2019
+  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Mon Mar 04 22:46:11 2019
 -->
 
   <CISVersion>
     <Value>CIS Version 16.3</Value>
   </CISVersion>
 
-  <LastModifiedTime>543976824</LastModifiedTime>
+  <LastModifiedTime>1551710757</LastModifiedTime>
 
   <AllowDuplicatePartNumbers>1</AllowDuplicatePartNumbers>
 
@@ -28,13 +28,13 @@
 
   <DoNotStuffString>Do Not Stuff</DoNotStuffString>
 
-  <MechPartMappingTable>CIS_DB$</MechPartMappingTable>
+  <MechPartMappingTable>MechPart Mapping Table</MechPartMappingTable>
 
   <Version>2457</Version>
 
   <DSNName>AATN</DSNName>
 
-  <AssistMode>1</AssistMode>
+  <AssistMode>0</AssistMode>
 
   <AutoPartTypeRefresh>1</AutoPartTypeRefresh>
 
@@ -130,7 +130,7 @@
       <DBFieldNullable>0</DBFieldNullable>
       <Browse>0</Browse>
       <Protected>0</Protected>
-      <Key>0</Key>
+      <Key>1</Key>
       <Ignore>0</Ignore>
       <Visibility>0</Visibility>
       <PropertyType>0</PropertyType>
@@ -168,7 +168,7 @@
       <Protected>0</Protected>
       <Key>0</Key>
       <Ignore>0</Ignore>
-      <Visibility>2</Visibility>
+      <Visibility>0</Visibility>
       <PropertyType>4</PropertyType>
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
@@ -222,7 +222,7 @@
       <Protected>0</Protected>
       <Key>0</Key>
       <Ignore>1</Ignore>
-      <Visibility>2</Visibility>
+      <Visibility>0</Visibility>
       <PropertyType>3</PropertyType>
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>

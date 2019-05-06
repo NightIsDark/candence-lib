@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <CFGManager>
 
-  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Mon Mar 04 22:46:11 2019
+  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Mon May 06 14:44:06 2019
 -->
 
   <CISVersion>
     <Value>CIS Version 16.3</Value>
   </CISVersion>
 
-  <LastModifiedTime>1551710757</LastModifiedTime>
+  <LastModifiedTime>543976824</LastModifiedTime>
 
   <AllowDuplicatePartNumbers>1</AllowDuplicatePartNumbers>
 
@@ -34,7 +34,7 @@
 
   <DSNName>AATN</DSNName>
 
-  <AssistMode>0</AssistMode>
+  <AssistMode>1</AssistMode>
 
   <AutoPartTypeRefresh>1</AutoPartTypeRefresh>
 
@@ -76,7 +76,7 @@
       <DBFieldNullable>0</DBFieldNullable>
       <Browse>0</Browse>
       <Protected>0</Protected>
-      <Key>1</Key>
+      <Key>0</Key>
       <Ignore>0</Ignore>
       <Visibility>0</Visibility>
       <PropertyType>1</PropertyType>

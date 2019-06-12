@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <CFGManager>
 
-  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Tue May 07 15:03:49 2019
+  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Tue Jun 11 17:00:24 2019
 -->
 
   <CISVersion>
@@ -16,7 +16,7 @@
 
   <TransferBlankProperties>0</TransferBlankProperties>
 
-  <AssignTempPartNoAutomatically>1</AssignTempPartNoAutomatically>
+  <AssignTempPartNoAutomatically>0</AssignTempPartNoAutomatically>
 
   <TempPartNumberTableName>TMPPRTS</TempPartNumberTableName>
 

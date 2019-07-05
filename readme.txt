@@ -316,7 +316,7 @@ xtal5032					标准晶振封装5032
 xtal6035					标准晶振封装6035
 ZMCT102						电流互感器ZMCT102
 ZMPT107						电流互感器ZMPT107
-test b
+test a
 
 
 

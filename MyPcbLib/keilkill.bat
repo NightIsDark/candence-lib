@@ -9,4 +9,5 @@ del *.tag /s
 del *.log.copy /s
 del *.dml /s
 del *.rpt /s
+del *.dra.lck /s
 exit

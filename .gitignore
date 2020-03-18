@@ -7,4 +7,5 @@ MyPcbLib/dra&psm/stepFacetFiles4Map
 MyPcbLib/dra&psm/*.jrl,1
 MyPcbLib/dra&psm/master.tag
 MyCandenceLib/*.OLBlck
+MyCandenceLib/*.OBK
 MyCandenceConfigDoc

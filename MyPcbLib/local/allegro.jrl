@@ -1,0 +1,18 @@
+\t (00:00:00) allegro 17.2 S058 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Jan 06 21:31:09 2021
+\t (00:00:00)         Host=ADIN-PC User=adin Pid=4440 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe E:\work\git\candence-lib\MyPcbLib\local\Port2_54mm-4p.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:00) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged Port2_54mm-4p
+\d (00:00:00) Design opened: E:/work/git/candence-lib/MyPcbLib/local/Port2_54mm-4p.dra
+\t (00:00:00) Grids are drawn 64.00, 64.00 apart for enhanced viewing.
+\i (00:00:00) trapsize 4172
+\i (00:00:00) trapsize 4290
+\i (00:00:00) trapsize 4172
+\t (00:00:01) Grids are drawn 64.00, 64.00 apart for enhanced viewing.
+\i (00:00:01) trapsize 4172
+\i (00:00:01) generaledit 
+\i (00:59:08) exit 
+\t (00:59:09)     Journal end - Wed Jan 06 22:30:18 2021

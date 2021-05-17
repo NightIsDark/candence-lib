@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : xh2_5mm-2aw.dra                               )
+(    Software Version : 17.2S058                                      )
+(    Date/Time        : Mon Jan 11 21:06:45 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/work/git/candence-lib/MyPcbLib/dra&psm
+    Name      = xh2_5mm-2aw.psm
+    User      = adin
+    Machine   = ADIN-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
